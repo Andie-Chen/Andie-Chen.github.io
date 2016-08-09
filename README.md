@@ -1,4 +1,4 @@
 # Andie-Chen.github.io
 
 ### Tools
-[triangulator/index.html] - triangulator
+- [triangulator](triangulator/index.html)
